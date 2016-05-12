@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.2.1_02377e5ba1b3ba3f9b097e9b7d5a2ed2fdbed6ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_2ee9ffa3e9f01b6aca3605241ed5acdabc3bef3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_775775655035488f1337313ab0b4b72dadce9854/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_fad0f471963a80dab74bebb1d40cb316bf24991e/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_7f4fc0241a8e11aff3c63420616eeb20bbeddd31/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="107eab3ea61196a246ab64e4d7a2caa2be6383c3">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc141fb6e1a90199bdb1ba45cc2e483242bcdd47/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d3a6bd2bb4f118c75046439dd0b4bc7de25b5144">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_664ae3a3954cd6f3412cee0d3a125e27dacab505/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.2.1_8abbc72048bef3ef3ac4cafb20d55ada1f03d1dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/developer/AndroidWorkspace/Design-Demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c91325bfd0cc845808f733b09001b9cd3b949e02/classes.dex" />
+    </item>
+
+</items>

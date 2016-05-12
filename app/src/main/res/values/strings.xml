@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Support Design</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_attachment">Attachment</string>
+    <string name="nav_item_images">Images</string>
+    <string name="nav_item_location">My Location</string>
+    <string name="nav_sub_menu">Sub Menu</string>
+    <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
+    <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="drawer_header_text">Drawer Header</string>
+    <string name="second_activity_text">The primary mode that users will be interacting with multi-window is through split-screen mode, which is available on both handheld devices and larger tablets. In this mode, two apps split the available screen space and the user can drag the divider between the two split screens to resize the apps. As you might imagine, this mode offers some unique design challenges beyond what was needed previous</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
